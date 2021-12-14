@@ -1,6 +1,6 @@
-# Space Tourism Website
+<h1># Space Tourism Website<h1>
 
-<h2> A multipage website that advertsises the next frontier of tourism: the space one! <h2>
+<h2> A multipage website that advertises the next frontier of tourism: the space one! <h2>
 
 ![alt text](media/website_preview/website_preview_planet.png)
 
