@@ -52,6 +52,7 @@ The needs to use JavaScript was limited to
 ![alt text](media/website_preview/website_preview_crew.png)
 
   </br>
+  
 ![alt text](media/website_preview/website_preview_technology.png)
 
 
