@@ -39,7 +39,7 @@ The needs to use JavaScript was limited to
   </br>
  
   <h2>Conclusions and Learnings</h2>
-  This project inspired by FrontEnd Mentor ![a relative link](https://www.frontendmentor.io) gave the opportunity to sharpen my CSS skills, to work on a responsive website, to realize the importance of accesibility, and probably, above all, the need to define classes for 99%, if not all, of the HTML elements that we write. 
+  This project inspired by FrontEnd Mentor [a relative link]https://www.frontendmentor.io gave the opportunity to sharpen my CSS skills, to work on a responsive website, to realize the importance of accesibility, and probably, above all, the need to define classes for 99%, if not all, of the HTML elements that we write. 
   
   </br>
   
