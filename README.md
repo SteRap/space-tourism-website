@@ -16,7 +16,7 @@ Moreover, working on this project I tryed to follow and apply all the good pract
 
 </br>
   <h2>The Design System</h2>
-Everything started crafating the design system for Fonts, Colors, Elements, Buttons etc... The final results is the picture below:
+Everything started crafting the design system for Fonts, Colors, Elements, Buttons etc... The final results is the picture below:
 </br>
 
 ![alt text](media/website_preview/website_preview_designsystem.png)
